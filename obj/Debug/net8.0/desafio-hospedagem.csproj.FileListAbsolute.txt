@@ -1,0 +1,15 @@
+D:\DIO\Formação DOTNET\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.exe
+D:\DIO\Formação DOTNET\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.deps.json
+D:\DIO\Formação DOTNET\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.runtimeconfig.json
+D:\DIO\Formação DOTNET\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.dll
+D:\DIO\Formação DOTNET\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.pdb
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.AssemblyInfoInputs.cache
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.AssemblyInfo.cs
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.csproj.CoreCompileInputs.cache
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.sourcelink.json
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.dll
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\refint\desafio-hospedagem.dll
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.pdb
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.genruntimeconfig.cache
+D:\DIO\Formação DOTNET\desafio-hospedagem\obj\Debug\net8.0\ref\desafio-hospedagem.dll
