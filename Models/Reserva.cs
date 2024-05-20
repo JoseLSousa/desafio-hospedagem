@@ -17,7 +17,7 @@ namespace desafio_hospedagem.Models
 
         public void CadastrarHospedes(List<Hospede> hospedes)
         {
-           Hospedes = hospedes;
+            Hospedes = hospedes;
         }
         public void CadastrarSuite(Suite suite)
         {
@@ -36,7 +36,13 @@ namespace desafio_hospedagem.Models
         }
         public int CalcularValorDiaria()
         {
-            return (DiasReservados * Suite.ValorDiariaCentavos) / 100;
+            int valorTotal = DiasReservados * Suite.ValorDiariaCentavos;
+
+            if (DiasReservados >= 10)
+            {
+                valorTotal -= valorTotal / 10;
+            }
+            return valorTotal / 100;
         }
     }
 }
